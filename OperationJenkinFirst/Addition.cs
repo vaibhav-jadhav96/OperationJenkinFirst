@@ -10,7 +10,7 @@ namespace OperationJenkinFirst
     {
         public void Add()
         {
-            int p, q, r;
+            int p, q, r, s;
             int a=10, b=20;
             int c= a + b;
             Console.WriteLine(c);
